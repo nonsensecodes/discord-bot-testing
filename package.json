@@ -1,0 +1,31 @@
+{
+  "name": "discord-bot-testing",
+  "version": "1.0.0",
+  "description": "Discord Bot testing library",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dao-bot-builders/discord-bot-testing.git"
+  },
+  "keywords": [
+    "discord",
+    "bot",
+    "bot",
+    "testing"
+  ],
+  "author": "DAO Toolkit Developers",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dao-bot-builders/discord-bot-testing/issues"
+  },
+  "homepage": "https://github.com/dao-bot-builders/discord-bot-testing#readme",
+  "dependencies": {
+    "discord.js": "^13.6.0"
+  },
+  "devDependencies": {
+    "typescript": "^4.6.3"
+  }
+}
